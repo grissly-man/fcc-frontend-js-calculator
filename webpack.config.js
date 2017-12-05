@@ -12,7 +12,7 @@ module.exports = {
         javascript: "./app.jsx"
     },
     output: {
-        path: __dirname + '/dist',
+        path: __dirname + '/docs',
         filename: 'bundle.js'
     },
     resolve: {
