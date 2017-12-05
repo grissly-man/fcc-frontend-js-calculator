@@ -1,7 +1,7 @@
 Working demonstration: [https://codepen.io/grissly-man/pen/eeNOKX](https://codepen.io/grissly-man/pen/eeNOKX)
 
 ## FreeCodeCamp Instructions:
-1. **Objective:** Build a [https://codepen.io/FreeCodeCamp/full/rLJZrA/](CodePen.io) app that is functionally similar to this: [https://codepen.io/FreeCodeCamp/full/rLJZrA/](https://codepen.io/FreeCodeCamp/full/rLJZrA/) and deploy it to Heroku.
+1. **Objective:** Build a [CodePen.io](https://codepen.io/FreeCodeCamp/full/rLJZrA/) app that is functionally similar to this: [https://codepen.io/FreeCodeCamp/full/rLJZrA/](https://codepen.io/FreeCodeCamp/full/rLJZrA/) and deploy it to Heroku.
 2. Fulfill the below user stories. Use whichever libraries or APIs you need. Give it your own personal style.
 3. **User Story:** I can add, subtract, multiply and divide two numbers.
 4. **User Story:** I can clear the input field with a clear button.
