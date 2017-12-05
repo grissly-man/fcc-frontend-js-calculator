@@ -1,4 +1,4 @@
-Working demonstration: [https://codepen.io/grissly-man/pen/eeNOKX](https://codepen.io/grissly-man/pen/eeNOKX)
+Working demonstration: [https://grissly-man.github.io/js-calculator/](https://grissly-man.github.io/js-calculator/)
 
 ## FreeCodeCamp Instructions:
 1. **Objective:** Build a [CodePen.io](https://codepen.io/FreeCodeCamp/full/rLJZrA/) app that is functionally similar to this: [https://codepen.io/FreeCodeCamp/full/rLJZrA/](https://codepen.io/FreeCodeCamp/full/rLJZrA/) and deploy it to Heroku.
