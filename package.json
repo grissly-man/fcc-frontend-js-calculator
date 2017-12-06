@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/logandhi/js-calculator.git"
+    "url": "git+https://github.com/grissly-man/js-calculator.git"
   },
   "keywords": [
     "freecodecamp",
@@ -21,9 +21,9 @@
   "author": "Logan Griswold",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/logandhi/js-calculator/issues"
+    "url": "https://github.com/grissly-man/js-calculator/issues"
   },
-  "homepage": "https://github.com/logandhi/js-calculator#readme",
+  "homepage": "https://github.com/grissly-man/js-calculator#readme",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
